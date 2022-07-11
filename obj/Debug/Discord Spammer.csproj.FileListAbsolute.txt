@@ -1,0 +1,22 @@
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\bin\Debug\Discord Spammer.exe.config
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\bin\Debug\Discord Spammer.exe
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\bin\Debug\Discord Spammer.pdb
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\obj\Debug\Discord Spammer.csproj.AssemblyReference.cache
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\obj\Debug\Discord_Spammer.Form1.resources
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\obj\Debug\Discord_Spammer.Properties.Resources.resources
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\obj\Debug\Discord Spammer.csproj.GenerateResource.cache
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\obj\Debug\Discord Spammer.csproj.CoreCompileInputs.cache
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\obj\Debug\Discord Spammer.exe
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\obj\Debug\Discord Spammer.pdb
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\bin\Debug\Leaf.xNet.dll
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\bin\Debug\Leaf.xNet.xml
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\obj\Debug\Discord Spammer.csproj.CopyComplete
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\bin\Debug\Microsoft.Scripting.dll
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\bin\Debug\Microsoft.Scripting.xml
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\obj\Debug\Discord_Spammer.Spammer.resources
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\bin\Debug\websocket-sharp.dll
+C:\Users\khali\source\repos\Discord Spammer\Discord Spammer\bin\Debug\websocket-sharp.xml
